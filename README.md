@@ -1,3 +1,3 @@
-# expense_tracker
+# Expense Tracker System
 
-<video src="https://github.com/user-attachments/assets/636141c0-7322-4f34-a175-3e78014a0269" width="352" height="500"></video>
+<video src="https://github.com/user-attachments/assets/ce31d684-f08f-49af-bc31-e6414089ee68" width="352" height="500"></video>
